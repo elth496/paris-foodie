@@ -1,0 +1,21 @@
+{
+  "name": "巴黎餐厅推荐 - 小红书精选",
+  "short_name": "巴黎餐厅",
+  "description": "45家巴黎餐厅 · 含推荐菜/实拍图片/预订信息",
+  "start_url": "./巴黎餐厅排行榜_小红书分析.html",
+  "display": "standalone",
+  "background_color": "#fdf6f0",
+  "theme_color": "#c0392b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
